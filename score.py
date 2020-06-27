@@ -1,6 +1,6 @@
 # Write a program to prompt for a score between 0.0 and 1.0. 
-# If the score is out of range, print an error. 
 # If the user enters a value out of range, print a suitable error message and exit
+
 score = input("Enter Score: ")
 sc = float(score)
 if sc >= 1.0:
