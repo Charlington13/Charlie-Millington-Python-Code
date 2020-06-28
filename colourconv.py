@@ -1,3 +1,4 @@
+# The color_translator function receives the name of a color, then prints its hexadecimal value.
 def color_translator(color):
 	if color == "red":
 		hex_color = "#ff0000"
